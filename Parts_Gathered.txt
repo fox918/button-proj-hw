@@ -1,0 +1,25 @@
+== Requirements ==
+-12V Power for Matt
+-5V for Oliver
+-2 Strips for Oliver / 1 for Matt
+-1 Button for Oliver
+
+
+
+== Power 12V / 5V ==
+-Oliver:    Bypass because I got already 5V
+-Matt:      12V->5V Linear Regulator
+            AZ1117CH-5.0TRG1 in SOT223
+
+
+== Level Shifter ==
+4x Buffer HCT Series, SN74AHCT125DRG4 in SOIC
+
+
+== Connectors ==
+-Oliver: Solder on snap ins
+-Matt:   evtl. Mini-XLR
+
+== Proposals ==
+SERIES resistor between: Node<->Buffer and Buffer<->Strip
+Polyfuse on Input
