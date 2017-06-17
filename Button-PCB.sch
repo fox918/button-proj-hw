@@ -1059,4 +1059,8 @@ Wire Notes Line
 	4900 7100 600  7100
 Text Notes 800  3150 0    60   ~ 0
 Should we add Pulldowns here?
+Wire Wire Line
+	1250 3650 1100 3650
+Wire Wire Line
+	1250 3950 1100 3950
 $EndSCHEMATC
