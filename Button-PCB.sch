@@ -30,7 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:nodemcuv3
 LIBS:Button-PCB-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -817,8 +817,6 @@ F 3 "" H 2400 1550 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2400 1550 2400 1650
-Text Notes 2900 7000 0    60   ~ 0
-Maybe we should add some caps here?
 Text Notes 600  650  0    60   ~ 0
 Power Input Circuit
 Text Notes 850  5400 0    60   ~ 0

@@ -1059,4 +1059,6 @@ Text Notes 650  4750 0    60   ~ 0
 NodeMCU v3
 Wire Notes Line
 	4900 7100 600  7100
+Text Notes 800  3150 0    60   ~ 0
+Should we add Pulldowns here?
 $EndSCHEMATC
