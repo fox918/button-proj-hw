@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name nodemcuv3)(type KiCad)(uri "$(KIPRJMOD)/nodemcuv3.pretty")(options "")(descr ""))
+)
