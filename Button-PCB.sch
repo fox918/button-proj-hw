@@ -265,13 +265,13 @@ BUT_1
 Text Label 3550 6400 0    60   ~ 0
 TX
 Text Label 3950 6400 0    60   ~ 0
-STRIP_2
+STRIP_4
 Text Label 3550 6300 0    60   ~ 0
 RX
 Text Label 3950 5400 0    60   ~ 0
 STRIP_3
 Text Label 3950 5900 0    60   ~ 0
-STRIP_4
+STRIP_2
 NoConn ~ 2200 5200
 NoConn ~ 2200 5500
 NoConn ~ 2200 5600
