@@ -31,7 +31,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:nodemcuv3
 LIBS:Button-PCB-cache
-EELAYER 26 0
+EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -1139,4 +1139,6 @@ F 3 "" H 3650 2000 60  0001 C CNN
 	1    3650 2000
 	1    0    0    -1  
 $EndComp
+Text Notes 5150 6150 0    118  ~ 0
+Something with the TX pin doesn't work, booting is not working...
 $EndSCHEMATC
